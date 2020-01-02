@@ -17,4 +17,4 @@ We are continuously adding content over the coming months. With our intent to ex
     * [Windows posture checks with WMIC](https://appgate.github.io/appgate-wmicprovider)
     * [Locality based posture check](https://appgate.github.io/appgate-locality)
     * [Entitlement script RDP hosts](https://appgate.github.io/appgate-rdphosts)
-* [Conkolla - AppGate API Gateway](https://appgate.github.io/appgate-conkolla/)
+* [Conkolla - AppGate API Gateway](https://appgate.github.io/conkolla/)
