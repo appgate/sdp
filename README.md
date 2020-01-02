@@ -1,5 +1,3 @@
-# AppGate Extensions and Customization
-
 The AppGate Github space is a contribution to the DevSecOps community around the AppGate-SDP product. You will find various information such as:
 * Integration use-cases and scripts
 * Extension use-cases and scripts
