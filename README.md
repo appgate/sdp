@@ -1,10 +1,10 @@
-The AppGate Github space is a contribution to the DevSecOps community around the AppGate-SDP product. You will find various information such as:
+The AppGate SDP Github space is a contribution to the DevSecOps community around the AppGate SDP product. You will find various information such as:
 * Integration use-cases and scripts
 * Extension use-cases and scripts
 * Administration tools
 * Developer tools and packages
 
-AppGate is a product from [AppGate Inc.](https://www.appgate.com/).
+AppGate SDP is a product from [AppGate Inc.](https://www.appgate.com/).
 
 ## Contributor and maintainer
 AppGate Inc. employees are the current contributors. The repositories are a collection of use-cases, re-usable scenarios and tools from work with customers and internal IT for which we believe it is worth sharing to improve and add value to any AppGate-SDP installation. 
