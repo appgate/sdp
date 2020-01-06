@@ -18,4 +18,4 @@ We are continuously adding content over the coming months. With our intent to ex
     * [Locality based posture check](https://appgate.github.io/appgate-locality)
     * [Entitlement script RDP hosts](https://appgate.github.io/appgate-rdphosts)
 * [Conkolla - AppGate API Gateway](https://appgate.github.io/conkolla/)
-* [Auto-Scaling AppGate Gateways on Cloud Platforms] (https://appgate.github.io/autoscale/)
+* [Auto-Scaling AppGate Gateways on Cloud Platforms](https://appgate.github.io/autoscale/)
