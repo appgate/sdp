@@ -12,10 +12,10 @@ The content originates mostly from the *Customer Reliability Engineering team*, 
 We are continuously adding content over the coming months. With our intent to extend our GitHub presence, we are also aiming to incorporate community communications in the near future.
 
 ## Projects
-* [AppGate Extensions](https://appgate.github.io/appgate-extensions/)
-    * [Windows Antivirus check](https://appgate.github.io/appgate-avcheck)
-    * [Windows posture checks with WMIC](https://appgate.github.io/appgate-wmicprovider)
-    * [Locality based posture check](https://appgate.github.io/appgate-locality)
-    * [Entitlement script RDP hosts](https://appgate.github.io/appgate-rdphosts)
+* [AppGate Extensions](https://appgate.github.io/sdp-extensions/)
+    * [Windows Antivirus check](https://appgate.github.io/sdp-avcheck)
+    * [Windows posture checks with WMIC](https://appgate.github.io/sdp-wmicprovider)
+    * [Locality based posture check](https://appgate.github.io/sdp-locality-check)
+    * [Entitlement script RDP hosts](https://appgate.github.io/sdp-rdphosts)
 * [Conkolla - AppGate API Gateway](https://appgate.github.io/conkolla/)
-* [Auto-Scaling AppGate Gateways on Cloud Platforms](https://appgate.github.io/autoscale/)
+* [Auto-Scaling AppGate Gateways on Cloud Platforms](https://appgate.github.io/sdp-autoscale/)
