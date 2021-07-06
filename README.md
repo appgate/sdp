@@ -22,3 +22,4 @@ We are continuously adding content over the coming months. With our intent to ex
 * [Appgate SDP prometheus-grafana monitoring docker-stack](https://github.com/appgate/sdp-prom-monitoring)
 * [Auto-Scaling Appgate Gateways on Cloud Platforms](https://github.com/appgate/sdp-autoscale/)
 * [Appgate SDP Terraform Provider](https://github.com/appgate/sdp-terraform-provider)
+* [Appgate SDP User Claim Scripts](https://github.com/appgate/sdp-user-claim-scripts)
