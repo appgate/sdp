@@ -51,3 +51,5 @@ The linux keyring client is using a `plain` encryption algorithm to store secret
 * QT: 5.15.6
 
 I have been using AppGate for about 7 months on this system with no problems. An underlying keyring update to my system disabled plain as an option for accessing secure secrets via keyring, and now I am locked out of my corporate account.
+
+Related: https://bugs.kde.org/show_bug.cgi?id=458341
